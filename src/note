@@ -5,3 +5,7 @@ Class Like Noun(Student, HashMap, Computer)
 method like verb(ActionPerformed, Run, Write, Print) -> abc() 
 Constant variable should be in Capital -> ABC
 constructor -> Abc()  variable -> abc
+
+
+
+
